@@ -1,3 +1,11 @@
+# DISCLAMERS
+
+• This fan-game is not intended to make money, but rather for fun. The game content is not intended to endorse or attack Tetris, all rights go to respective owners please support the brand's official releases 
+
+• This Fan-Game will have few Updates, I'm not very interested in this game becoming famous, since I made it just for fun, Updates can be as much for bug fixes, design improvements or even new game modes, but seriously don't expect anything 
+
+
+
 # About
 Tetro Rase is a block stacking game similar to Tetris. this game follows the Tetris guidelines (except the minoskins and other stuff) the game is available on itch.io 
 
